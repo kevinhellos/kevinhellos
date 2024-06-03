@@ -1,4 +1,4 @@
-# About Me:
+# About:
 Software Developer mainly involved in enterprise web development and software system implementation. Developed corporate landing pages and websites in React, Next JS, AngularJS and ASP NET.
 
 # Tech Tools:
