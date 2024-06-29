@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Vue JS<br>🎲 Fun fact: I used to not like React</p>
+<p align="left">📚 I'm currently experimenting Vue JS<br>🎲 Fun fact: do you know Japan has a cube shaped strawberry? </p>
 
 ###
 
