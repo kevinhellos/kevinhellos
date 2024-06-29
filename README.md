@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kevin, and I'm a software engineer and product manager.</p>
+<p align="left">My name is Kevin, and I'm a software engineer and product manager. I am mainly involved in enterprise web development and software systems implementation (such as Payroll systems and CRMs). </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Vue JS<br>🎲 Fun fact: I used to not like React</p>
+<p align="left">📚 I'm currently learning Vue JS<br>🎲 Fun fact: I used to not like React</p>
 
 ###
 
