@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently interested in Vue JS<br>🎲 Fun fact: do you know Japan has a cube shaped strawberry? </p>
+<p align="left">📚 Keeping myself up to date with the Javascript frameworks and libraries<br>🎲 Fun fact: do you know Japan has a cube shaped strawberry? </p>
 
 ###
 
