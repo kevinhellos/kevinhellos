@@ -1,8 +1,8 @@
-<h1 align="left">Hello World 👋</h1>
+<h1 align="left">Hi there, I'm Kevin</h1>
 
 ###
 
-<p align="left">My name is Kevin, and I'm a software engineer and product manager. I am mainly involved in enterprise web development and software systems implementation (E.g. Payroll systems, HR systems and CRMs). </p>
+<p align="left">I'm a software engineer and product manager. I am mainly involved in enterprise web development and software systems implementation (Payroll systems, HR systems and CRMs). </p>
 
 ###
 
