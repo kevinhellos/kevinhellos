@@ -12,6 +12,12 @@
 
 <p align="left">📚 Keeping myself up to date with the Javascript frameworks and libraries<br>💻 Main tech stack: Next JS + PostgreSQL + Tailwind CSS<br>🎲 Fun fact: do you know Japan has a cube shaped strawberry? </p>
 
+<h2 align="left">I'm currently working on</h2>
+
+###
+
+<p align="left"> 🎨 <a href="https://github.com/kevinhellos/koffee-ui2">Koffee UI</a> - UI library to build beautiful web <br> </p>
+
 ###
 
 <h2 align="left">Languages</h2>
