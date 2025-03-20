@@ -15,7 +15,7 @@
 <h2 align="left">I'm currently working on</h2>
 
 ###
-
+<p align="left"> 🗓️ <a href="https://github.com/kevinhellos/fastbook.space">Fastbook.space</a> - Personal scheduling and booking system <br> </p>
 <p align="left"> 🎨 <a href="https://github.com/kevinhellos/koffee-ui2">Koffee UI</a> - UI library to build beautiful web <br> </p>
 
 ###
