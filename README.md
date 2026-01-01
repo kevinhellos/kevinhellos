@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Keeping myself up to date with the Javascript frameworks and libraries<br>💻 Main tech stack: Next JS + PostgreSQL + Tailwind CSS<br>🎲 Fun fact: do you know Japan has a cube shaped strawberry? </p>
+<p align="left">📚 Keeping myself up to date with the Javascript frameworks and libraries<br>🤖 Currently exploring web automation frameworks (Puppeteer & Selenium) and building side projects with it<br>💻 Main tech stack: Next JS + PostgreSQL + Tailwind CSS<br>🎲 Fun fact: do you know Japan has a cube shaped strawberry? </p>
 
 <h2 align="left">Favourite things I've built </h2>
 
